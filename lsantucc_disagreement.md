@@ -1,12 +1,12 @@
-# Disagreement Examples — lsantucc (validator) / pstorch1 (project owner)
+# Disagreement — lsantucc / pstorch1
 
 ## Status
 
-No owner-vs-validator disagreements could be recorded. pstorch1's MiniProject2 repository (Durza14/MiniProject2) contains only Part 1 output (WoC commit retrieval and GitHub stats). There is no project stats file, time series, or reflection, and no values for HasRecovered, WhyRecovered, ActivityPattern, CurrentStatus, or RecentThemes. With no AuthorValue to compare against, no disagreements exist and no discussion could be held. The instructor was notified on 2026-10-19.
+No owner-vs-validator disagreements could be recorded. pstorch1's MiniProject2 repository (Durza14/MiniProject2) contains only Part 1 output (WoC commit retrieval and GitHub stats). There is no project stats file, time series, or reflection, and no values for HasRecovered, WhyRecovered, ActivityPattern, CurrentStatus, or RecentThemes. With no AuthorValue to compare against, no disagreements exist and no discussion could be held.
 
 ## Cases I would have raised in discussion
 
-These are the labels in my validation log where I expect a second coder could reasonably disagree. These are the cases I would bring to an evidence-based discussion.
+These are the labels in my validation log where I expect a second coder could reasonably disagree. These are the cases I would bring to an evidence based discussion.
 
 ### 1. cp2k_cp2k — HasRecovered (my value: Yes)
 - **Issue:** The longest zero-commit stretch is a single month (2001-09), in the project's first months. Activity resumed right after, so a literal reading of the codebook gives "Yes." An equally defensible reading is "No / N/A," because the project never went dormant.
