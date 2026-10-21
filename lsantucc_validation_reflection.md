@@ -4,7 +4,7 @@
 
 ## Note on scope
 
-My partner's MiniProject2 repository contains only the Part 1 commit data. There were no author labels to compare against, so no agreement statistics or adjudication could be produced. The instructor has been notified. This reflection is based on my independent labels in `lsantucc_validation_log.csv`. I built them from pstorch1's WoC commit data (mapped back to each project's GitHub history) and from the current GitHub commit logs.
+My partner's MiniProject2 repository contains only the Part 1 commit data, so there were no author labels to compare against. Every record was a pre-discussion disagreement (0% agreement). On the instructor's direction, my validator values were adopted as the adjudicated values (100% post-discussion agreement, all ValidatorKept). The adjudicated labels discussed below were built from pstorch1's WoC commit data (mapped back to each project's GitHub history) and from the current GitHub commit logs.
 
 ## What precedes long gaps
 

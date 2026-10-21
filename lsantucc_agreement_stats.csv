@@ -1,6 +1,6 @@
 Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
-HasRecovered;NA;NA;NA;NA;NA;NA;NA;No comparison possible: owner (pstorch1) posted no MiniProject2 values for this field, validator values recorded independently. Ambiguity: whether 1-2 month gaps (cp2k, schnetpack, drizzlepac) count as recovery
-WhyRecovered;NA;NA;NA;NA;NA;NA;NA;No comparison possible: owner (pstorch1) posted no MiniProject2 values for this field, validator values recorded independently. Recovery triggers were mostly new contributors or maintainer returns
-ActivityPattern;NA;NA;NA;NA;NA;NA;NA;No comparison possible: owner (pstorch1) posted no MiniProject2 values for this field, validator values recorded independently. Borderline cases between irregular/U-shaped/steady (brainrender, drizzlepac, tls-attacker)
-Currentstatus;NA;NA;NA;NA;NA;NA;NA;No comparison possible: owner (pstorch1) posted no MiniProject2 values for this field, validator values recorded independently. Codebook lists yes/no but defines Active/Inactive, used Active/Inactive
-RecentThemes;NA;NA;NA;NA;NA;NA;NA;No comparison possible: owner (pstorch1) posted no MiniProject2 values for this field, validator values recorded independently. Merge and CI commits hard to place, often fell into Other
+HasRecovered;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, all 10 resolved as ValidatorKept per instructor. Ambiguity: 1-2 month gaps (cp2k, schnetpack, drizzlepac) counted as recovery under literal codebook reading
+WhyRecovered;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Recovery triggers mostly new contributors porting to new toolchains or maintainer returning for a release
+ActivityPattern;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Borderline irregular vs U-shaped vs steady cases (brainrender, drizzlepac, tls-attacker)
+Currentstatus;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Codebook lists yes/no but defines Active/Inactive, used Active/Inactive
+RecentThemes;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Merge and CI commits hard to place, often classed as Other
