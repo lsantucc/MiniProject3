@@ -4,7 +4,7 @@
 
 ## Note on scope
 
-My partner's MiniProject2 repository contains only the Part 1 commit data, so there were no author labels to compare against. Every record was a pre-discussion disagreement (0% agreement). On the instructor's direction, my validator values were adopted as the adjudicated values (100% post-discussion agreement, all ValidatorKept). The adjudicated labels discussed below were built from pstorch1's WoC commit data (mapped back to each project's GitHub history) and from the current GitHub commit logs.
+My partner's MiniProject2 repository contains only the Part 1 commit data, so there were no author labels to compare against. Every record was a pre-discussion disagreement (0% agreement). My values were used as the final values (100% post-discussion agreement, all ValidatorKept). The labels discussed below were built from pstorch1's WoC commit data (mapped back to each project's GitHub history) and from the current GitHub commit logs.
 
 ## What precedes long gaps
 

@@ -1,6 +1,6 @@
 Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
-HasRecovered;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, all 10 resolved as ValidatorKept per instructor. Ambiguity: 1-2 month gaps (cp2k, schnetpack, drizzlepac) counted as recovery under literal codebook reading
-WhyRecovered;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Recovery triggers mostly new contributors porting to new toolchains or maintainer returning for a release
-ActivityPattern;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Borderline irregular vs U-shaped vs steady cases (brainrender, drizzlepac, tls-attacker)
-Currentstatus;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Codebook lists yes/no but defines Active/Inactive, used Active/Inactive
-RecentThemes;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, resolved as ValidatorKept per instructor. Merge and CI commits hard to place, often classed as Other
+HasRecovered;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, so my values were used as final values. Ambiguity: 1-2 month gaps (cp2k, schnetpack, drizzlepac) counted as recovery under literal codebook reading
+WhyRecovered;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, so my values were used as final values. Recovery triggers mostly new contributors porting to new toolchains or maintainer returning for a release
+ActivityPattern;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, so my values were used as final values. Borderline irregular vs U-shaped vs steady cases (brainrender, drizzlepac, tls-attacker)
+Currentstatus;0.0;100.0;0.0;1.0;10;10;NA;Owner posted no values, so my values were used as final values. Codebook lists yes/no but defines Active/Inactive, used Active/Inactive
+RecentThemes;0.0;100.0;NA;NA;10;10;NA;Owner posted no values, so my values were used as final values. Merge and CI commits hard to place, often classed as Other
